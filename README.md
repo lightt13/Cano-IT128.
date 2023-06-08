@@ -1,6 +1,3 @@
-"# Cano-IT128." 
-"# Cano-IT128." 
-"# Cano-IT128." 
-"# Cano-IT128." 
-"# Cano-IT128." 
-"# Cano-IT128." 
+Paulo Miguel Cano
+IT128L-FOPI01
+BSIT"# Cano-IT128" 
